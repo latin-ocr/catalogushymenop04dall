@@ -1,0 +1,252 @@
+pallidus 10, 14, 110,
+112,121,128‚2oa
+216,232‚239,242,
+
+245,2sz
+
+pallipes 10, 42, 62,
+64, 79, 91, 95,102,
+111,126,179, 180,
+197, 212, 234, 242,
+
+249‚252.
+pallitarsis 112.
+palliventris 78.
+
+palpebrator 282, 283.
+
+paludum 15.
+Pambolinae 237.
+Pambolus 237.
+Panerema 52.
+pannonicus 205.
+panzeri 141.
+paradoxus 67.
+paraensis 64, 283.
+Paragathis 145.
+Paralipsis 5.
+Paraptesis 237.
+parasitellae 175.
+parasiticus 221.
+
+parcicornis 16, 121,
+
+205, 208.
+parva 191.
+
+parvicornis 34, 117,
+
+283.
+
+parvipennis 20, 128.
+
+parvistriga 155.
+parvula 20.
+
+parvulus 20, 21, 64,
+99, 112, 126, 160,
+
+186,259.
+parvungula 23, 64.
+parvungulus 64.
+
+parvus 191,205, 212.
+
+pascuorum 10.
+paululor 283.
+Paxylloma 1, 2.
+pectinator 283.
+
+pectoralis 48,82, 101,
+
+142,221,261,272
+283,306.
+
+pedalis 85, 221.
+
+pedator 205.
+
+pedestris 245.
+
+Pelecystoma 225.
+
+pellucens 205.
+
+Register.
+
+pellucidus 283.
+pendula 123.
+pendulator 108, 109.
+pendulus 64.
+Penecerus 229.
+penetrans 142, 255.
+penetrator 221, 283,
+295.
+pennator 283.
+pennipes 255.
+Pentapleura 43.
+perdita 37.
+peregrinus 121.
+perforator 142.
+pergandei 146.
+Perilitus 21,103,116,
+118, 124, 251.
+periscelis 221.
+Peristenus 124.
+peroculatus 283.
+peronatus 134.
+perparvus 283.
+perplexus 283.
+persecutor 300.
+persicaphidis 4.
+personatus 300.
+perspicuus 165, 166.
+pertinax 234.
+Petalodes 225.
+petiolaris 227, 296.
+petiolata 27, 28.
+petiolator 283.
+petiolatus 121, 123,
+126, 245.
+Pezomachus 237.
+Phaedrotoma 57, 58.
+phaenicura 28.
+Phaenocarpa 38.
+Phaenodus 249.
+Phaenolexis 23.
+Phaenolyta 51.
+Phaenomeris 252.
+Phaenotoma 191.
+Phanerogaster 191.
+
+‚ Ι phoenicum 28.
+
+phoenix 303, 304.
+pholisorae 180.
+phorodontis 10.
+Phylacter 77.
+Phylax 77.
+phymatodis 102.
+
+picea 3.
+piceator 48.
+pieeiventris 3.
+piceus 3, 64.
+picinervis 40.
+
+picipes 5, 6, 80, 125,
+126,180,185‚283
+
+piciventris 229.
+picta 48.
+
+picticornis 40, 283,
+
+284.
+pictipennis 228.
+pictipes 206.
+
+pictus 10, 13, 216,
+
+284, 299.
+pieridis 167, 183.
+pieridivora 167.
+piger 284.
+
+pilicornis 34,180,206.
+
+piliventris 300.
+pilosa 191.
+pilosellus 300.
+
+pilosipes55,255,284.
+
+pilosithorax 255.
+pilosus 191.
+Pimpla 100.
+pimploides 100.
+pinaphidis 10.
+pineti 284.
+
+pini 10.
+
+pinos 155.
+pissodes 284.
+
+pityophthori242,248.
+
+placidus 56, 180.
+plagiator 16.
+Plancus 2.
+planiceps 3, 234.
+planifrons 192.
+planistipes 10.
+planiventris 284.
+planus 231.
+platygaster 284.
+
+platypterygus 221.
+platyurus 284.
+
+Pleiomerus 186.
+pleurale 102.
+pleuralis40,102,112.
+plicatus 284.
+plumator 306.
+plumicornis 121.
+plumosus 284.
+
+319
+
+plurimacula 284.
+pluto 87.
+podagricus 20.
+poeyi 307.
+Polemon 18.
+polita 142, 155.
+politus 68, 99, 112,
+116‚155,180,225,
+284.
+polybothrys 284.
+Polydegmon 208.
+polygonaphis 17.
+polygoni 10.
+Polystenus 238.
+polyzonus 64.
+pomarius 235.
+pomifoliellae 284.
+populaphis 14.
+popularis 180.
+populator 87.
+Porizon 188.
+postica 28, 155.
+posticas 155, 284.
+potaninii 192.
+praecipua 34.
+praecisus 232.
+praecox 284.
+praedo 54.
+praepotens 182.
+praerogator 221, 222.
+praetermissus 284.
+praetextatus 163.
+praetor 180, 222.
+Praon 16, 118.
+pratapae 180.
+pratellae 40.
+procephali 10.
+procera 20.
+procerus 20, 55, 56,
+82, 154, 155, 222.
+prodoxi 242.
+productus 75, 206,
+285.
+profisciator 285.
+profligator 112.
+Promachus 71.
+promontorii 285.
+propinqua 142.
+Prosapha 36.
+protaeus 12.
+Protelus 103.
+

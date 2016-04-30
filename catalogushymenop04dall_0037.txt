@@ -1,0 +1,57 @@
+0001101110. 19
+
+elegans (Ourt.) Hal. — Ω 6 — Eur.: Britannia.
+01100000 elegans Curtis, Brit. Entom. VI. 1829 p. 289 n. 3.
+Chaenon similis Ourtis, Brit. Entom. VI. 1829 p. 289 n. 6.
+Chaenon eingulatus curtis, Brit. Entom. VI. 1829 p. 289 n. 9.
+01100000 rufinotatus Curtis, Brit. Entom. VI. 1829 p. 289 n. 10.
+01100000 brevieornis curtis, Brit. Entom. VI. 1829 p. 289 n. 11.
+Alysia (0001101110) elegans Haliday‚ Hymen. Brit. 11. 1839 p. 23 n. 99, Ω 5.
+Coelinius elegans Marshall, Spec. Hymen. Europe P. 53. 1896 V. p. 521, Ω 5.
+festus Gom-‚13 — Eur.: Gallia.
+Coelinius festus Goureau, Ann. 000. entom. France (2) IX. 1851 p. 153; T. 6 XI F. 10.
+Coelinius festus Marshass, Spee. Hymen. Europe P. 53. 1896 V. p. 522 n. l.
+fuliginosas {Curt.) Hal. — Eur.: Britannia.
+Chaenon fuliginosus Curris, Brit. Entom. VI. 1829 p. 289 n. 8.
+0001101110 fuliginosus Haliday, Hymen. Brit. II. 1839 p. 20.
+gracilis (01111.) Hal. — Ω 6 — Eur.: Britannia.
+Chaenon gracilis curtis, Brit. Entom. VI. 1828 p. 289 n. 2.
+Alysia <Coe1iniusi gracilis Haliday, Hymen. Brit. H. 1839 p. 23 0. 98, Ω 5.
+Coelinius gracilis Marshall, Spec. Hymen. Europe P. 53. 1896 V. p. 520, Ω 5.
+hopkinsii Ashm. -— Ω —- Am.: Virginia.
+⁴ 0001101110 Hopkinsii Ashmead, Canad. Entomol. XXV. 1893 p. 79 n. 16, Ω.
+hydrelliae Kawss. -— Ω 5 -—- Eur.: Russia.
+0001101110 hydrelliae Kawall, Stettin. entom. Zeitg. XXVIII. 1867 p. 121, Ω 5.
+0001101110 hydrelliae Marshall, Spec. Hymen. Europe P. 53. 1896 V. p. 522 n. 2, Ω 5.
+longulus Ashm. —— 6 —— Am.: Oolorado.
+0001101110 longulus Ashmead, Proo. U. St. Nat. Mus. 1888 p. 651, 5.
+meromyzae Forbss) — Ω 6 — Am.: Illinois.
+0001101110 meromyzae Forbes, Rep. Insects Illinois XIII. 1884 p. 26, Ω 5; T. 2 F. 1 ἃ* 2.
+niger Nees4) — Ω 6 — Eur. fere tota.
+Stephanus niger Nees, Magaz. Ges. naturf. Fr. Berlin V. 1811 p. 5 11. 2, 5.
+0110011011 affinis curtis, Brit. Entom. VI. 1829 p. 289 n. 7.
+Coelinius niger Nees. Hymen. Ichneum. affin. Monogr. I. 1834 p. 20 n. 2, 6.
+Chaenon nigricans Westwood, Magaz. of Nat. Hist VIII. 1835 p. 177; T. 16 Fig. gh.
+01100000 nigricans Westwood, Gard. Magaz. IX. 1836 p. 504 ; Fig.
+Alysia (Coelinius) niger Haliday, Hymen. Brit. II. 1839 p. 24 0. 100, Ω 5.
+Alysia Olivieri (31110110, Μο111. 000. agric. 1842 p. 263 T. 4 F. 1 ἅ* 2.
+0001101110 niger curtis, Morton. Cyclop. of Agric. 1851 p. 5³3 T. 155 F. 7 & 8.
+0001101110 niger Curtis‚ Farm Insects 1860 p. 242; Τ. 34 F. 8 ἃ Tab. H F. 15 Sc 16.
+0001101110 niger Forster, Verh. naturh. Ver. preuss. Rheinl. XIX. 1862 p. 275.
+0001101110 niger Kawall, Bull. 000. natural. Moscou XXXVIII. P. 4. 1865 p. 365, Ω.
+0001101110 niger Parfitt, Rep. & Trans. Devon Assoc. XIII. 1881 p. 291.
+Ooelinius niger Spangberg, Entom. Tidskr. V. 1884 p. 203 & 231.
+Daenusa (Coelinius) niger Thomson, Opusc. entom. P. 20. 1895 p. 2330 0. 3, Ω 5.
+0001101110 niger Marshall, Spee. Hymen. Europe P. 53. 1896 V. p. 518, Ω 5.
+nigripes Ashm. — 6 — Am.: Oolorado.
+0001101110 nigripes Ashmead, Bull. Colorado Biol. Assoc. Ι. 1890 p. 19, 5.
+’ ¹) Diffi..- Phytomyza primulae Gour. = 0100101Ιο Meig. 00111000).
+2) Diffi..- Hydrellia griseola Fall. (Kawall).
+3) Dipa: Meromyza americana Fiteh (Forbes).
+⁴²) Dipta Chlorops herpini Guer„ 0111. taeniopus, 0111. laeta Meig., 011. lineata Meig.
+Marshall), 0001010 Frit. (Spingbcrg.
+
+ 
+
+2*
+

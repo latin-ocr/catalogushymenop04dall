@@ -1,0 +1,244 @@
+322
+
+stenocentra 23.
+stenocera 23.
+stenospilus 69.
+
+stenostigma 15, 20,
+
+114.
+
+Stephanus 18, 20, 41.
+
+stercoraria 47.
+stercorator 47.
+sternalis 197.
+stictica 156.
+sticticator 96.
+sticticus 96, 156.
+stigma 143, 290.
+stigmaterus 135.
+stigmatica 156.
+stigmaticalis 42.
+
+stigmaticus 156, 290.
+
+stigmator 290.
+Stiphrocera 32.
+
+stramineipes 28, 29,
+
+66.
+Strebloeera 122.
+strenua 161.
+strenuus 122, 161.
+striata 143.
+striatellus 232.
+striatifrons 246.
+striatula 29.
+striatulus 212, 290.
+striatus 114, 249,
+
+285, 290, 293.
+strigator 100.
+strigiventris 290.
+striola 212.
+striolata 49.
+striolatus 227, 290.
+strobilorum 290.
+
+strongylogaster 235.
+
+Strophaea 44.
+stygia 69.
+
+stylata 31.
+
+suavis 301.
+subannullata 43.
+subaperta 49.
+subapterus 235.
+subauratus 301.
+suboompleta 156.
+subcompletus 156.
+subcompressa 38.
+suboornutus 290.
+subeylindricus 290.
+
+Register.
+
+subdepressus 290.
+subducta 156.
+subductus 156.
+subfaseiata 143.
+subfasciatellus 290.
+
+subfaseiatus1186,187,
+
+290.
+
+subincompletus 153.
+
+sublaevis 82.
+
+submarginatus 206.
+submucronatus 100.
+
+submutieus 207.
+subnodosus 290.
+
+subsulcatus 91, 207,
+
+290.
+subtilis 54.
+succieola 49.
+suevus 183.
+sulcata 256.
+sulcator 256.
+sulcatulus 290.
+sulcatus 114, 198,
+
+207, 208, 240.
+
+sulcifrons 255, 290.
+
+suliana 256.
+sulphurator 290.
+superciliosus 266.
+suspiciosus 291.
+sylvaticus 57.
+sylvia 38.
+Symphanes 52.
+Symphya 30.
+Synaldis 32.
+Synerasis 51.
+Synelix 31.
+Syngaster 71, 232,
+236.
+
+syngenesiae 143,144.
+
+Synodus 241.
+Syntretus 116.
+Syrrhizus 91.
+
+'rabida 41.
+tabidus 114, 232.
+tacitus 66.
+taeniata 69.
+taitica 156.
+taiticus 156, 291.
+talaris 29.
+Tanyearpa 43.
+Tanystropha 31.
+
+Taphaeus 73.
+taprobanae 183.
+tardator 85, 86.
+tarsalis 29, 227.
+tarsator 66, 291.
+tau 156.
+tauricornis 123.
+tegularis 135.
+Telebolus 240.
+temula 29.
+tenebrosus 183.
+tenellus 114.
+tentator 303.
+tenthredinum 212.
+Tenthredoides 86.
+tenuicornis 53, 66,
+114, 227, 291.
+tenuipes 161.
+tenuis 13, 82.
+tenuistriatus 291,
+306.
+terebella 291.
+terebrator 92, 177,
+184.
+teres 301.
+terminalis 78, 129,
+144, 223, 229, 242.
+
+terminatus 122, 136,
+
+161.
+terrefaetor 306.
+tersa 197.
+tersus 70, 197.
+testacea 41, 307.
+testaceator 78.
+testaeeipes 3, 4.
+
+testaceus 41, 66, 96,
+
+117, 188, 216, 223,
+227, 307.
+tetrapodii 86.
+Tetrasphaeropyx
+191.
+tetricus 184.
+tettinsis 208.
+texanus 86, 136,208,
+213, 225, 232, 235,
+291.
+thalassinus 291.
+theclae 173.
+theodori 41.
+Therobolus 57.
+Therophilus 131.
+
+thomsonii 208, 291.
+thoracica 144, 145.
+thoracicus 82, 87,
+100,111,130,141,
+145, 213, 273, 291.
+thuringiacus 115,
+291.
+tibialis 38, 100, 139,
+144, 156, 157, 192,
+291.
+tibiator 87, 100, 144.
+tinctipennis 246, 301.
+tipulae 49.
+tipulator 291.
+tiro 157.
+titubans 291.
+tivaeholae 184.
+tomentosa 23.
+tomiei 246.
+tornator 291.
+tortricioola 292.
+tortricis 157.
+Toxares 3, 15.
+Toxineura 86.
+Toxineurinae 86.
+Trachionus 198.
+Trachyusa 51.
+transversus 292.
+triangularis 292.
+triangulator 49, 184,
+301.
+triangulum 292.
+Triaspis 83, 209,213.
+tricarinatus 292.
+Trichesia 41.
+Trichopius 55.
+tricolor 144, 223, 225,
+238, 260, 292.
+trifasciatus 246.
+trifolii 292.
+trigonalis 122.
+trigonus 70.
+trilineatus 249.
+trilobatus 292.
+trimaeulatus 66.
+Trimorus 250.
+Trinaria 32.
+Trionyx 15.
+Trioxys 3, 13.
+tripartita 29, 144
+tripartitus 235.
+
+      
+
